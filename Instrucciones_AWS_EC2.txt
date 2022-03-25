@@ -1,0 +1,3 @@
+1. EC2 launch instance
+2. Seleccinar la instancia necesaria
+3. Agregar un tag en el paso 5
